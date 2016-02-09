@@ -1,0 +1,14 @@
+baseurl = "http://blekkfisk.no/"
+languageCode = "no-nb"
+title = "Blekkfisk"
+theme = "hugo-bootswatch-master"
+publishdir = "public"
+
+
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+
+canonifyurls: true
